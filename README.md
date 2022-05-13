@@ -7,7 +7,13 @@ Roasters Cafe Book Club is a community focused book club which aims to bring tog
 ###### Table of Contents
 
 -[Site Overview](#Site-Overview)
-
+-[Planning](#Planning-Stage)
+        -[Target Audience](#Target-Audience)
+        -[User Stories](#User-Stories)
+        -[Site Aims](#Site-Aims)
+-[UI Design](#UI-Design)
+    - [Wireframes](#Wireframes)
+    -[Colours](#Colours)
 
 ### Planning Stage
 ### Target Audience
@@ -43,4 +49,3 @@ I have designed some simple wireframes that show the layout I plan to use throug
 ## Colours
 Throughout the website I want to keep a strong reference to both the coffee shop and also librarys. I plan on using dark earthy colours with the text being in white so its still readable. 
 
--[Site Overview](#Site-Overview)
