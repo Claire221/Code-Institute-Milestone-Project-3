@@ -6,7 +6,7 @@ Roasters Cafe Book Club is a community focused book club which aims to bring tog
 
 ###### Table of Contents
 
--[Site Overview](#site-overview)
+-[Site Overview](#Site-Overview)
 
 
 ### Planning Stage
