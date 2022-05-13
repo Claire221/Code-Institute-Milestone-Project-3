@@ -6,14 +6,14 @@ Roasters Cafe Book Club is a community focused book club which aims to bring tog
 
 ###### Table of Contents
 
--[Site Overview](#Site-Overview)
--[Planning](#Planning-Stage)
-        -[Target Audience](#Target-Audience)
-        -[User Stories](#User-Stories)
-        -[Site Aims](#Site-Aims)
--[UI Design](#UI-Design)
+- [Site Overview](#Site-Overview)
+- [Planning](#Planning-Stage)
+    - [Target Audience](#Target-Audience)
+    - [User Stories](#User-Stories)
+    - [Site Aims](#Site-Aims)
+- [UI Design](#UI-Design)
     - [Wireframes](#Wireframes)
-    -[Colours](#Colours)
+    - [Colours](#Colours)
 
 ### Planning Stage
 ### Target Audience
