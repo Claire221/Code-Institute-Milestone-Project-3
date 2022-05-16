@@ -36,11 +36,11 @@
 
 /* Header Styles */
 .header-section {
-    min-width: 1000px;
-    min-height: 90vh;
-    background-color: rgb(139, 139, 139);
+    min-width: 100px;
+    min-height: 100vh;
+    
     color: #fff;
-
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(255,0,0,0) 80%);
 }
 
 
@@ -49,6 +49,9 @@ video {
     position: absolute;
     left: 0;
     top: 0;
+    z-index: -5;
+    overflow: hidden;
+    position: ce
 }
 
 
@@ -79,16 +82,16 @@ video {
     z-index: 1;
     font-size: 1.5rem;
     color: #fff;
-    background-color: rgb(70, 49, 38);
+    background-color: rgb(37, 26, 20);
     border-radius: 6px;
-    border: solid 2px rgb(88, 62, 48) ;
+    border: solid 2px rgb(66, 47, 36) ;
     padding: .5% 2%;
     z-index: 1;
 
     position: absolute;
     top: 620px;
 
-    box-shadow: 0 0 5px 5px rgb(37, 24, 18); 
+    box-shadow: 0 5px 10px 2px rgb(26, 18, 14); 
 }
 
 .events-btn {
@@ -107,4 +110,13 @@ video {
     transform: translateY(4px);
 
     box-shadow: none;
+}
+
+
+/* About Section Styles */
+.about-section {
+    /* width: 100vw;
+    height: 100vh; */
+    background: linear-gradient(0deg, rgba(92, 60, 45, 0.9), rgba(0, 0, 0, 1) 80%);
+
 }
